@@ -424,3 +424,4 @@ neverallow fs_type file_type:filesystem associate;
 
 # Themes
 type theme_data_file, file_type, data_file_type, core_data_file_type;
+type theme_data_file, file_type, data_file_type;
